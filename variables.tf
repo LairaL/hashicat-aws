@@ -50,5 +50,5 @@ variable "placeholder" {
 }
 
 variable "bucket_prefix" {
-  default     = "${var.prefix}"
+  default     = "laira"
 }
